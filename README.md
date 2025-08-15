@@ -1,3 +1,8 @@
 # Fake-Social-Media-Site
-Fake-Social-Media-Site , JSONPlaceholder , html , css , js ,bootstrap
+- JSONPlaceholder 
+- HTML
+- CSS
+- JS
+- Bootstrap
+**Fake-Social-Media-Site get fake data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) By API
 [Live Demo](https://fake-social-media-site.vercel.app/)
