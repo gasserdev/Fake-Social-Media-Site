@@ -5,7 +5,7 @@
 - JS
 - Bootstrap
 - <br>
-**Fake-Social-Media-Site get fake data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) By API
+**Fake-Social-Media-Site get fake data from [JSONPlaceholder](https://jsonplaceholder.typicode.com/) By API**
 <br>
 <br>
 => [Live Demo](https://fake-social-media-site.vercel.app/)
